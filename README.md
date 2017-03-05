@@ -1,4 +1,4 @@
-# rpitwiiter
+# rpitwitter
 Some Twitter Integrations using the Raspberry Pi
 
 Both of these implementations rely on Tweepy;
